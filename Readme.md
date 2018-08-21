@@ -9,14 +9,13 @@
 \
 Characters:\
 \
-President Dragon\
-VP Wyvern\
-Secretary of State Unicorn\
-Attorney General Tarrasque\
-Panda, President of China\
-Bear, President of Russia\
-Beaver, Prime Minister of Canada\
-Rooster, President of France\
-Bulldog, Prime Minister of the UK\
-Eagle, Chancellor of Germany\
-Tiger, President of India}
+# President Dragon\
+\
+- President Dragon: Lady Gaga\
+- VP Wyvern: Paul Dano\
+- Secretary of State Unicorn: Emma Watson\
+- Attorney General Tarrasque: Eric Holder\
+- Panda, President of China: John Cho\
+- Bear, President of Russia: Daniel Day-Lewis\
+- Bulldog, Prime Minister of the UK: H. Jon Benjamin\
+- Beaver, President of Canada: Celine Dion}
